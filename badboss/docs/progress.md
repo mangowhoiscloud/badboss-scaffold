@@ -1,7 +1,7 @@
 # BadBoss Progress Board
 
 > web + skill 통합 칸반 보드. 크로스레포 작업 추적.
-> 마지막 갱신: 2026-03-26
+> 마지막 갱신: 2026-03-26 (conflict-prevention In Progress)
 > **규칙**: 이 파일은 루트에서만 수정. web/skill 레포에서 수정 금지.
 
 ---
@@ -18,7 +18,7 @@
 
 | task_id | 설명 | 레포 | 담당 | 브랜치 | 시작일 |
 |---------|------|------|------|--------|--------|
-| | | | | | |
+| conflict-prevention | 멀티 개발자 머지 충돌 방지 리서치 + 플랜 | root | @mangowhoiscloud | feature/conflict-prevention-plan | 2026-03-26 |
 
 ### In Review
 
